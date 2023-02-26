@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:iqra/constants.dart';
+import 'package:iqra/models/constants.dart';
 
 
 
@@ -55,3 +55,5 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+
+

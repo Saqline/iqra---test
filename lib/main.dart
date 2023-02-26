@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:iqra/view/pages/login_page.dart';
+import 'package:iqra/view/pages/page_with_auth_api/login_page.dart';
 
 
 void main() {
   runApp(const MyApp());
+  
 }
 
 class MyApp extends StatelessWidget {
